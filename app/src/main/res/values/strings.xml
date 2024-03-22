@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Tarea2PM2Parcial2</string>
     <string name="lista">Lista</string>
-    <string name="salvar">Salvar</string>
-
+    <string name="buscar">Buscar</string>
+    <string name="id">Id</string>
+    <string name="x">X</string>
 </resources>
